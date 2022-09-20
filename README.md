@@ -13,14 +13,14 @@ This script supports **Windows 10/11** and following Linux Distributions (Includ
 ### Environment
 This script supports CLI, Minimal Desktop, Heavy Desktop. These mean:
 
-### CLI
+#### CLI
 Install only CLI tools such as compilers, Python, TeXLive, NeoVim and Git.
 It's for WSL2, Docker.
 
-### Minimal Desktop
+#### Minimal Desktop
 Install CLI tools and some GUI tools.
 You can select desktop environment or window manager manually (or do not install any Desktop Environments or Window Managers).
 
-### Heavy Desktop
+#### Heavy Desktop
 Install GNOME Desktop Environment and CLI, GUI tools.
 
