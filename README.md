@@ -10,7 +10,7 @@ This script supports **Windows 10/11** and following Linux Distributions (Includ
  - Alpine Linux
 
 ### Environment
-This script supports CLI, Minimal Desktop, Heavy Desktop. These mean:
+This script has following choices.
 
 #### CLI
 Install only CLI tools such as compilers, Python, TeXLive, NeoVim and Git.  
