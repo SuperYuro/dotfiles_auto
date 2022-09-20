@@ -4,8 +4,7 @@ Configration files for Linux or Windows, and scripts to install them automatical
 ## Supporting Platforms
 ### Operating System
 This script supports **Windows 10/11** and following Linux Distributions (Including WSL2 and Docker).
- - Debian GNU/Linux
- - Ubuntu
+ - Debian GNU/Linux (and Linux Distros based on it)
  - Fedora Workstation
  - Arch Linux
  - Alpine Linux
