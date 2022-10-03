@@ -22,7 +22,7 @@ It's recommended for Containers like WSL2 and Docker.
 
 #### Minimal Desktop
 Install CLI tools and some GUI tools.  
-**It doesn't contains any Desktop Environment/Window Manager.**
+**It doesn't include any Desktop Environment/Window Manager.**
 
 #### Heavy Desktop
 Install GNOME Desktop Environment and CLI, GUI tools.
