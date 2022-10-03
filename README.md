@@ -3,22 +3,26 @@ Configration files for Linux or Windows, and scripts to install them automatical
 
 ## Supporting Platforms
 ### Operating System
-This script supports Windows 10/11 and following Linux Distributions (Including WSL2 and Docker).
+This script supports following platforms.
+
+ - Windows 10/11
  - Debian GNU/Linux (and based on it)
  - Fedora Workstation
  - Arch Linux
  - Alpine Linux
 
+It also supports WSL2 Distributions and Docker Containers based on supporting Linux Distributions.
+
 ### Environment
-This script has following choices.
+This script has following chooses.
 
 #### CLI
-Install only CLI tools such as compilers, Python, TeXLive, NeoVim and Git.  
-It's for WSL2, Docker.
+Install only CLI tools like GCC, Python, TeXLive, NeoVim and Git.  
+It's recommended for Containers like WSL2 and Docker.
 
 #### Minimal Desktop
 Install CLI tools and some GUI tools.  
-You can select desktop environment or window manager manually (or do not install any Desktop Environments or Window Managers).
+**It doesn't contains any Desktop Environment/Window Manager.**
 
 #### Heavy Desktop
 Install GNOME Desktop Environment and CLI, GUI tools.
