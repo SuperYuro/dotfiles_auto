@@ -3,6 +3,7 @@ all:
 	@echo make [Installation Mode]
 	@echo
 	@echo Valid Installation Modes
-	@echo  cli - Install only CLI tools
-	@echo  minimal - Install CLI tools and some GUI tools \(It doesn\'t include WM or DE\)
-	@echo  full - Install GNOME Desktop Environment
+	@echo  wsl - Install for WSL2
+	@echo container - Install for Docker container
+	@echo  laptop - Install for using laptop
+	@echo  desktop - Install desktop workstation
