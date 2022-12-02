@@ -1,0 +1,23 @@
+[user]
+	name = SuperYuro
+    email = a.gpgtdmgp@gmail.com
+
+[init]
+    defaultBranch = main
+
+[core]
+	excludesfile = ~/.gitignore_global
+
+[alias]
+	d = diff
+	co = checkout
+	cm = commit
+	br = branch
+	ba = "branch -a"
+	a = add
+	l = log
+	rs = restore
+	cl = clone
+	st = status
+	pl = pull
+	ps = push
